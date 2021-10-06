@@ -2,11 +2,11 @@
 
 Technologies Used for API Automation
 
-Java
-Rest Assured
-Junit
-Cucumber
-Maven
+Java,
+Rest Assured,
+Junit,
+Cucumber,
+Maven,
 
 In order to execute the API automation, 
 Import the Project as Maven Project into the Eclipse IDE
